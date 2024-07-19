@@ -13,6 +13,13 @@ This project involves analyzing bank loan data to gain insights into customer be
 - **Tableau**: For creating visualizations and dashboards.
 - **Microsoft SQL Server Management Studio**: For executing SQL queries and managing the database.
 
+## Examples
+Here are some examples of the visualizations and insights you can gain from this project:
+
+- **Loan Distribution**: Visualize the distribution of loan amounts across different customer segments.
+- **Default Rates**: Analyze the default rates based on customer demographics and loan characteristics.
+- **Loan Approval Trends**: Examine the trends in loan approvals over time.
+
 ## Getting Started
 
 ### Prerequisites
