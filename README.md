@@ -7,7 +7,7 @@ This project involves analyzing bank loan data to gain insights into customer be
 ## Features
 - **Data Analysis**: Perform comprehensive analysis on bank loan data.
 - **Visualizations**: Create interactive and insightful visualizations using Tableau.
-- **SQL Queries**: Utilize SQL queries to manipulate and analyze the data.
+- **SQL Queries**: Utilize SQL queries to manipulate and analyze the data. 
 
 ## Tools Used
 - **Tableau**: For creating visualizations and dashboards.
